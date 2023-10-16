@@ -1,0 +1,6473 @@
+[
+{
+  "LandedCost": 2124,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2384,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2157,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2668,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2632,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2300,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2109,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2748,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2109,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2812,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2812,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2295,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2263,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2722,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2668,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2489,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2474,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2849,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2628,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2519,
+  "PetcokeEq": 190
+ },
+ {
+  "LandedCost": 2474,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2228,
+  "PetcokeEq": 164
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2665,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2759,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2313,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2606,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2240,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2489,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2378,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2722,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2748,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 2492,
+  "PetcokeEq": 180
+ },
+ {
+  "LandedCost": 2787,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2109,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2849,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2562,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 2447,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2411,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2421,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2722,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2578,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2691,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2600,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2691,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2107,
+  "PetcokeEq": 144
+ },
+ {
+  "LandedCost": 1747,
+  "PetcokeEq": 136
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 175
+ },
+ {
+  "LandedCost": 1352,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1747,
+  "PetcokeEq": 141
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 181
+ },
+ {
+  "LandedCost": 2020,
+  "PetcokeEq": 149
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 117
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 60
+ },
+ {
+  "LandedCost": 1352,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 95
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 2020,
+  "PetcokeEq": 155
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 110
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 119
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1352,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1471,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 1279,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1542,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 58
+ },
+ {
+  "LandedCost": 1471,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 2020,
+  "PetcokeEq": 149
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 175
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 181
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 60
+ },
+ {
+  "LandedCost": 1239,
+  "PetcokeEq": 79
+ },
+ {
+  "LandedCost": 1239,
+  "PetcokeEq": 79
+ },
+ {
+  "LandedCost": 1542,
+  "PetcokeEq": 125
+ },
+ {
+  "LandedCost": 1471,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1279,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1471,
+  "PetcokeEq": 119
+ },
+ {
+  "LandedCost": 1747,
+  "PetcokeEq": 136
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1485,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1485,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 2198,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 1542,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1542,
+  "PetcokeEq": 125
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1279,
+  "PetcokeEq": 99
+ },
+ {
+  "LandedCost": 1747,
+  "PetcokeEq": 136
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 1747,
+  "PetcokeEq": 141
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1239,
+  "PetcokeEq": 82
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 58
+ },
+ {
+  "LandedCost": 1352,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1485,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1471,
+  "PetcokeEq": 119
+ },
+ {
+  "LandedCost": 1279,
+  "PetcokeEq": 99
+ },
+ {
+  "LandedCost": 1279,
+  "PetcokeEq": 99
+ },
+ {
+  "LandedCost": 2020,
+  "PetcokeEq": 155
+ },
+ {
+  "LandedCost": 2198,
+  "PetcokeEq": 173
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 58
+ },
+ {
+  "LandedCost": 1485,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1239,
+  "PetcokeEq": 82
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 2198,
+  "PetcokeEq": 173
+ },
+ {
+  "LandedCost": 2198,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 1542,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1352,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 117
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1485,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 123
+ },
+ {
+  "LandedCost": 2020,
+  "PetcokeEq": 149
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 1239,
+  "PetcokeEq": 79
+ },
+ {
+  "LandedCost": 2198,
+  "PetcokeEq": 173
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 175
+ },
+ {
+  "LandedCost": 113,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 407,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2343,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2360,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2652,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2417,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2641,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2128,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 2116,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 285,
+  "PetcokeEq": 9
+ },
+ {
+  "LandedCost": 2422,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2723,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 2420,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2568,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2420,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 245,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 293,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 92,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 377,
+  "PetcokeEq": 10
+ },
+ {
+  "LandedCost": 293,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2274,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 293,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 262,
+  "PetcokeEq": 8
+ },
+ {
+  "LandedCost": 2460,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 185,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 457,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 181,
+  "PetcokeEq": 7
+ },
+ {
+  "LandedCost": 171,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 171,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 171,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 55,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2422,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2349,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 2343,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2430,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2430,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2340,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 360,
+  "PetcokeEq": 10
+ },
+ {
+  "LandedCost": 2282,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 274,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2451,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2417,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2417,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 251,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 293,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2460,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2728,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2349,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2435,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 2351,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 274,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 55,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 456,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 185,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 1765,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 245,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 353,
+  "PetcokeEq": 10
+ },
+ {
+  "LandedCost": 55,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2430,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 456,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 337,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 185,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 274,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 1765,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 344,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 2435,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 337,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 245,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2116,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 2635,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 251,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2282,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 2116,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 171,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 2360,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2430,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2116,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 337,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 2417,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 113,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 2427,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 251,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 113,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 171,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 2334,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 274,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 2128,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 251,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 113,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 2723,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 489,
+  "PetcokeEq": 12
+ },
+ {
+  "LandedCost": 2575,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 274,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 245,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2838,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2693,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2693,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2693,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2693,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2693,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2722,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2691,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2812,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2728,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2849,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2670,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2805,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2698,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2698,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2698,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2698,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2698,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2585,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2537,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2767,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2767,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2767,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2767,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2767,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2668,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2812,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 106
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 92
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 99
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 94
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2252,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 1903,
+  "PetcokeEq": 140
+ },
+ {
+  "LandedCost": 1764,
+  "PetcokeEq": 114
+ },
+ {
+  "LandedCost": 355,
+  "PetcokeEq": 16
+ },
+ {
+  "LandedCost": 1844,
+  "PetcokeEq": 126
+ },
+ {
+  "LandedCost": 2440,
+  "PetcokeEq": 181
+ },
+ {
+  "LandedCost": 2522,
+  "PetcokeEq": 186
+ },
+ {
+  "LandedCost": 1111,
+  "PetcokeEq": 86
+ },
+ {
+  "LandedCost": 1718,
+  "PetcokeEq": 137
+ },
+ {
+  "LandedCost": 45,
+  "PetcokeEq": 4
+ },
+ {
+  "LandedCost": 2200,
+  "PetcokeEq": 161
+ },
+ {
+  "LandedCost": 1510,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 1005,
+  "PetcokeEq": 77
+ },
+ {
+  "LandedCost": 2132,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 1307,
+  "PetcokeEq": 106
+ },
+ {
+  "LandedCost": 2024,
+  "PetcokeEq": 140
+ },
+ {
+  "LandedCost": 1563,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 2376,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 2343,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2236,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 1555,
+  "PetcokeEq": 121
+ },
+ {
+  "LandedCost": 548,
+  "PetcokeEq": 41
+ },
+ {
+  "LandedCost": 2220,
+  "PetcokeEq": 156
+ },
+ {
+  "LandedCost": 2138,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1543,
+  "PetcokeEq": 106
+ },
+ {
+  "LandedCost": 2206,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2259,
+  "PetcokeEq": 180
+ },
+ {
+  "LandedCost": 2521,
+  "PetcokeEq": 201
+ },
+ {
+  "LandedCost": 2100,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 1972,
+  "PetcokeEq": 155
+ },
+ {
+  "LandedCost": 1837,
+  "PetcokeEq": 144
+ },
+ {
+  "LandedCost": 1829,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 2141,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2311,
+  "PetcokeEq": 184
+ },
+ {
+  "LandedCost": 1766,
+  "PetcokeEq": 119
+ },
+ {
+  "LandedCost": 2345,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2361,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 1276,
+  "PetcokeEq": 87
+ },
+ {
+  "LandedCost": 1582,
+  "PetcokeEq": 124
+ },
+ {
+  "LandedCost": 2308,
+  "PetcokeEq": 184
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 622,
+  "PetcokeEq": 31
+ },
+ {
+  "LandedCost": 520,
+  "PetcokeEq": 40
+ },
+ {
+  "LandedCost": 2007,
+  "PetcokeEq": 160
+ },
+ {
+  "LandedCost": 1846,
+  "PetcokeEq": 149
+ },
+ {
+  "LandedCost": 352,
+  "PetcokeEq": 7
+ },
+ {
+  "LandedCost": 379,
+  "PetcokeEq": 12
+ },
+ {
+  "LandedCost": 2399,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 97
+ },
+ {
+  "LandedCost": 2501,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1865,
+  "PetcokeEq": 150
+ },
+ {
+  "LandedCost": 2849,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1511,
+  "PetcokeEq": 98
+ },
+ {
+  "LandedCost": 709,
+  "PetcokeEq": 32
+ },
+ {
+  "LandedCost": 2399,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 1797,
+  "PetcokeEq": 136
+ },
+ {
+  "LandedCost": 1508,
+  "PetcokeEq": 103
+ },
+ {
+  "LandedCost": 2759,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 337,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 1659,
+  "PetcokeEq": 130
+ },
+ {
+  "LandedCost": 2120,
+  "PetcokeEq": 156
+ },
+ {
+  "LandedCost": 2378,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 1718,
+  "PetcokeEq": 137
+ },
+ {
+  "LandedCost": 2802,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2569,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 813,
+  "PetcokeEq": 42
+ },
+ {
+  "LandedCost": 2500,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2157,
+  "PetcokeEq": 153
+ },
+ {
+  "LandedCost": 407,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 1155,
+  "PetcokeEq": 66
+ },
+ {
+  "LandedCost": 2245,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 1255,
+  "PetcokeEq": 78
+ },
+ {
+  "LandedCost": 2253,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 2347,
+  "PetcokeEq": 163
+ },
+ {
+  "LandedCost": 2573,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 1845,
+  "PetcokeEq": 150
+ },
+ {
+  "LandedCost": 2427,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2345,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2378,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2443,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 1792,
+  "PetcokeEq": 146
+ },
+ {
+  "LandedCost": 1606,
+  "PetcokeEq": 130
+ },
+ {
+  "LandedCost": 2243,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2377,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 551,
+  "PetcokeEq": 33
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 1078,
+  "PetcokeEq": 83
+ },
+ {
+  "LandedCost": 1596,
+  "PetcokeEq": 129
+ },
+ {
+  "LandedCost": 639,
+  "PetcokeEq": 37
+ },
+ {
+  "LandedCost": 2421,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 1003,
+  "PetcokeEq": 60
+ },
+ {
+  "LandedCost": 644,
+  "PetcokeEq": 48
+ },
+ {
+  "LandedCost": 951,
+  "PetcokeEq": 72
+ },
+ {
+  "LandedCost": 2435,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2024,
+  "PetcokeEq": 161
+ },
+ {
+  "LandedCost": 2489,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2403,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 2165,
+  "PetcokeEq": 158
+ },
+ {
+  "LandedCost": 602,
+  "PetcokeEq": 44
+ },
+ {
+  "LandedCost": 2501,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2372,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 620,
+  "PetcokeEq": 31
+ },
+ {
+  "LandedCost": 2535,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 2349,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2458,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2245,
+  "PetcokeEq": 179
+ },
+ {
+  "LandedCost": 610,
+  "PetcokeEq": 29
+ },
+ {
+  "LandedCost": 2571,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2377,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 2787,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2102,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 2352,
+  "PetcokeEq": 174
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 2161,
+  "PetcokeEq": 146
+ },
+ {
+  "LandedCost": 2007,
+  "PetcokeEq": 160
+ },
+ {
+  "LandedCost": 2556,
+  "PetcokeEq": 204
+ },
+ {
+  "LandedCost": 2848,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 600,
+  "PetcokeEq": 47
+ },
+ {
+  "LandedCost": 2261,
+  "PetcokeEq": 180
+ },
+ {
+  "LandedCost": 2227,
+  "PetcokeEq": 162
+ },
+ {
+  "LandedCost": 1501,
+  "PetcokeEq": 102
+ },
+ {
+  "LandedCost": 2154,
+  "PetcokeEq": 163
+ },
+ {
+  "LandedCost": 2546,
+  "PetcokeEq": 203
+ },
+ {
+  "LandedCost": 2731,
+  "PetcokeEq": 208
+ },
+ {
+  "LandedCost": 2214,
+  "PetcokeEq": 164
+ },
+ {
+  "LandedCost": 293,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2443,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 980,
+  "PetcokeEq": 66
+ },
+ {
+  "LandedCost": 1908,
+  "PetcokeEq": 152
+ },
+ {
+  "LandedCost": 1983,
+  "PetcokeEq": 134
+ },
+ {
+  "LandedCost": 1460,
+  "PetcokeEq": 92
+ },
+ {
+  "LandedCost": 2219,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 894,
+  "PetcokeEq": 69
+ },
+ {
+  "LandedCost": 2220,
+  "PetcokeEq": 162
+ },
+ {
+  "LandedCost": 2608,
+  "PetcokeEq": 208
+ },
+ {
+  "LandedCost": 2601,
+  "PetcokeEq": 208
+ },
+ {
+  "LandedCost": 737,
+  "PetcokeEq": 43
+ },
+ {
+  "LandedCost": 2498,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2620,
+  "PetcokeEq": 209
+ },
+ {
+  "LandedCost": 379,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 2160,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2191,
+  "PetcokeEq": 160
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2564,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 1608,
+  "PetcokeEq": 126
+ },
+ {
+  "LandedCost": 572,
+  "PetcokeEq": 33
+ },
+ {
+  "LandedCost": 2491,
+  "PetcokeEq": 174
+ },
+ {
+  "LandedCost": 2063,
+  "PetcokeEq": 151
+ },
+ {
+  "LandedCost": 2466,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2191,
+  "PetcokeEq": 160
+ },
+ {
+  "LandedCost": 2624,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2552,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 762,
+  "PetcokeEq": 48
+ },
+ {
+  "LandedCost": 446,
+  "PetcokeEq": 33
+ },
+ {
+  "LandedCost": 1182,
+  "PetcokeEq": 77
+ },
+ {
+  "LandedCost": 1929,
+  "PetcokeEq": 157
+ },
+ {
+  "LandedCost": 2170,
+  "PetcokeEq": 159
+ },
+ {
+  "LandedCost": 2548,
+  "PetcokeEq": 203
+ },
+ {
+  "LandedCost": 1886,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 2279,
+  "PetcokeEq": 161
+ },
+ {
+  "LandedCost": 1141,
+  "PetcokeEq": 72
+ },
+ {
+  "LandedCost": 2488,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 466,
+  "PetcokeEq": 36
+ },
+ {
+  "LandedCost": 2684,
+  "PetcokeEq": 215
+ },
+ {
+  "LandedCost": 2027,
+  "PetcokeEq": 159
+ },
+ {
+  "LandedCost": 2619,
+  "PetcokeEq": 209
+ },
+ {
+  "LandedCost": 2209,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 2466,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 1499,
+  "PetcokeEq": 95
+ },
+ {
+  "LandedCost": 2624,
+  "PetcokeEq": 210
+ },
+ {
+  "LandedCost": 2748,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 2469,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1286,
+  "PetcokeEq": 83
+ },
+ {
+  "LandedCost": 1211,
+  "PetcokeEq": 86
+ },
+ {
+  "LandedCost": 2024,
+  "PetcokeEq": 161
+ },
+ {
+  "LandedCost": 137,
+  "PetcokeEq": 11
+ },
+ {
+  "LandedCost": 2569,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 2691,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 92,
+  "PetcokeEq": 1
+ },
+ {
+  "LandedCost": 2611,
+  "PetcokeEq": 209
+ },
+ {
+  "LandedCost": 2378,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 1645,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 1885,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1068,
+  "PetcokeEq": 61
+ },
+ {
+  "LandedCost": 1741,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 2380,
+  "PetcokeEq": 191
+ },
+ {
+  "LandedCost": 2063,
+  "PetcokeEq": 151
+ },
+ {
+  "LandedCost": 2028,
+  "PetcokeEq": 159
+ },
+ {
+  "LandedCost": 1894,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 2849,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1619,
+  "PetcokeEq": 126
+ },
+ {
+  "LandedCost": 2340,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 752,
+  "PetcokeEq": 37
+ },
+ {
+  "LandedCost": 251,
+  "PetcokeEq": 2
+ },
+ {
+  "LandedCost": 2488,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2562,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 2126,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 1645,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 1263,
+  "PetcokeEq": 102
+ },
+ {
+  "LandedCost": 2217,
+  "PetcokeEq": 174
+ },
+ {
+  "LandedCost": 181,
+  "PetcokeEq": 7
+ },
+ {
+  "LandedCost": 1863,
+  "PetcokeEq": 135
+ },
+ {
+  "LandedCost": 2040,
+  "PetcokeEq": 150
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 58
+ },
+ {
+  "LandedCost": 1088,
+  "PetcokeEq": 62
+ },
+ {
+  "LandedCost": 2386,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 956,
+  "PetcokeEq": 61
+ },
+ {
+  "LandedCost": 64,
+  "PetcokeEq": 5
+ },
+ {
+  "LandedCost": 1942,
+  "PetcokeEq": 145
+ },
+ {
+  "LandedCost": 2419,
+  "PetcokeEq": 184
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 165
+ },
+ {
+  "LandedCost": 2261,
+  "PetcokeEq": 159
+ },
+ {
+  "LandedCost": 2158,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 376,
+  "PetcokeEq": 28
+ },
+ {
+  "LandedCost": 1163,
+  "PetcokeEq": 90
+ },
+ {
+  "LandedCost": 2499,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2630,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2373,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 2506,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2444,
+  "PetcokeEq": 180
+ },
+ {
+  "LandedCost": 3029,
+  "PetcokeEq": 244
+ },
+ {
+  "LandedCost": 2445,
+  "PetcokeEq": 180
+ },
+ {
+  "LandedCost": 2126,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2471,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 2558,
+  "PetcokeEq": 204
+ },
+ {
+  "LandedCost": 2532,
+  "PetcokeEq": 202
+ },
+ {
+  "LandedCost": 1940,
+  "PetcokeEq": 157
+ },
+ {
+  "LandedCost": 1887,
+  "PetcokeEq": 148
+ },
+ {
+  "LandedCost": 2465,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 2374,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 2466,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 165
+ },
+ {
+  "LandedCost": 1110,
+  "PetcokeEq": 86
+ },
+ {
+  "LandedCost": 2040,
+  "PetcokeEq": 150
+ },
+ {
+  "LandedCost": 2502,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1844,
+  "PetcokeEq": 126
+ },
+ {
+  "LandedCost": 2473,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2482,
+  "PetcokeEq": 183
+ },
+ {
+  "LandedCost": 2556,
+  "PetcokeEq": 204
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 919,
+  "PetcokeEq": 54
+ },
+ {
+  "LandedCost": 688,
+  "PetcokeEq": 36
+ },
+ {
+  "LandedCost": 2652,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 2156,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 175
+ },
+ {
+  "LandedCost": 2345,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2744,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1483,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 2600,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2475,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 587,
+  "PetcokeEq": 26
+ },
+ {
+  "LandedCost": 2659,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2124,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2464,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2218,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 150,
+  "PetcokeEq": 9
+ },
+ {
+  "LandedCost": 1773,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2343,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 1474,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2256,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 539,
+  "PetcokeEq": 40
+ },
+ {
+  "LandedCost": 2417,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2116,
+  "PetcokeEq": 166
+ },
+ {
+  "LandedCost": 2109,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 1435,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 117
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2566,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1419,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 14,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2631,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 1569,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 2563,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1460,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 2154,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 2543,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2476,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1057,
+  "PetcokeEq": 75
+ },
+ {
+  "LandedCost": 2511,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 372,
+  "PetcokeEq": 10
+ },
+ {
+  "LandedCost": 384,
+  "PetcokeEq": 10
+ },
+ {
+  "LandedCost": 780,
+  "PetcokeEq": 48
+ },
+ {
+  "LandedCost": 894,
+  "PetcokeEq": 55
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2524,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 851,
+  "PetcokeEq": 51
+ },
+ {
+  "LandedCost": 2363,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2723,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1581,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 81,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2464,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2754,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 117
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 105
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 107
+ },
+ {
+  "LandedCost": 2202,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 2464,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 2193,
+  "PetcokeEq": 181
+ },
+ {
+  "LandedCost": 1455,
+  "PetcokeEq": 106
+ },
+ {
+  "LandedCost": 2563,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 2483,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 2475,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2657,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1424,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 1524,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 146,
+  "PetcokeEq": 12
+ },
+ {
+  "LandedCost": 113,
+  "PetcokeEq": 6
+ },
+ {
+  "LandedCost": 2746,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 1222,
+  "PetcokeEq": 87
+ },
+ {
+  "LandedCost": 539,
+  "PetcokeEq": 40
+ },
+ {
+  "LandedCost": 2482,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2529,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 945,
+  "PetcokeEq": 67
+ },
+ {
+  "LandedCost": 2337,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1445,
+  "PetcokeEq": 106
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 116
+ },
+ {
+  "LandedCost": 2507,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2658,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2464,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2355,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 100
+ },
+ {
+  "LandedCost": 1433,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 2524,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1636,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 717,
+  "PetcokeEq": 39
+ },
+ {
+  "LandedCost": 2202,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2315,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 2479,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1457,
+  "PetcokeEq": 114
+ },
+ {
+  "LandedCost": 1559,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2489,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2466,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 1765,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 39,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2558,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 646,
+  "PetcokeEq": 43
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 121
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2441,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2535,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1563,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 2202,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 2344,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 1548,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 2658,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 104
+ },
+ {
+  "LandedCost": 236,
+  "PetcokeEq": 8
+ },
+ {
+  "LandedCost": 1603,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 2517,
+  "PetcokeEq": 201
+ },
+ {
+  "LandedCost": 521,
+  "PetcokeEq": 39
+ },
+ {
+  "LandedCost": 2527,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2522,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 1940,
+  "PetcokeEq": 141
+ },
+ {
+  "LandedCost": 869,
+  "PetcokeEq": 52
+ },
+ {
+  "LandedCost": 1594,
+  "PetcokeEq": 129
+ },
+ {
+  "LandedCost": 1935,
+  "PetcokeEq": 152
+ },
+ {
+  "LandedCost": 2159,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 182,
+  "PetcokeEq": 15
+ },
+ {
+  "LandedCost": 2252,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 1959,
+  "PetcokeEq": 151
+ },
+ {
+  "LandedCost": 2557,
+  "PetcokeEq": 202
+ },
+ {
+  "LandedCost": 2004,
+  "PetcokeEq": 157
+ },
+ {
+  "LandedCost": 2319,
+  "PetcokeEq": 190
+ },
+ {
+  "LandedCost": 2585,
+  "PetcokeEq": 206
+ },
+ {
+  "LandedCost": 2432,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 2510,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 2255,
+  "PetcokeEq": 173
+ },
+ {
+  "LandedCost": 1320,
+  "PetcokeEq": 101
+ },
+ {
+  "LandedCost": 1221,
+  "PetcokeEq": 80
+ },
+ {
+  "LandedCost": 1878,
+  "PetcokeEq": 144
+ },
+ {
+  "LandedCost": 2195,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 1478,
+  "PetcokeEq": 120
+ },
+ {
+  "LandedCost": 143,
+  "PetcokeEq": 8
+ },
+ {
+  "LandedCost": 1955,
+  "PetcokeEq": 151
+ },
+ {
+  "LandedCost": 1868,
+  "PetcokeEq": 146
+ },
+ {
+  "LandedCost": 2569,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 470,
+  "PetcokeEq": 36
+ },
+ {
+  "LandedCost": 2572,
+  "PetcokeEq": 205
+ },
+ {
+  "LandedCost": 1835,
+  "PetcokeEq": 131
+ },
+ {
+  "LandedCost": 2405,
+  "PetcokeEq": 178
+ },
+ {
+  "LandedCost": 2099,
+  "PetcokeEq": 149
+ },
+ {
+  "LandedCost": 2112,
+  "PetcokeEq": 163
+ },
+ {
+  "LandedCost": 2383,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 2454,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 881,
+  "PetcokeEq": 61
+ },
+ {
+  "LandedCost": 2207,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 2579,
+  "PetcokeEq": 206
+ },
+ {
+  "LandedCost": 2379,
+  "PetcokeEq": 176
+ },
+ {
+  "LandedCost": 2582,
+  "PetcokeEq": 206
+ },
+ {
+  "LandedCost": 1030,
+  "PetcokeEq": 65
+ },
+ {
+  "LandedCost": 1920,
+  "PetcokeEq": 133
+ },
+ {
+  "LandedCost": 1304,
+  "PetcokeEq": 85
+ },
+ {
+  "LandedCost": 1792,
+  "PetcokeEq": 129
+ },
+ {
+  "LandedCost": 2129,
+  "PetcokeEq": 164
+ },
+ {
+  "LandedCost": 1606,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 2185,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 1222,
+  "PetcokeEq": 88
+ },
+ {
+  "LandedCost": 54,
+  "PetcokeEq": 3
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2498,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2267,
+  "PetcokeEq": 167
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 1963,
+  "PetcokeEq": 148
+ },
+ {
+  "LandedCost": 1651,
+  "PetcokeEq": 129
+ },
+ {
+  "LandedCost": 2556,
+  "PetcokeEq": 204
+ },
+ {
+  "LandedCost": 587,
+  "PetcokeEq": 28
+ },
+ {
+  "LandedCost": 2452,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 2391,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 1003,
+  "PetcokeEq": 77
+ },
+ {
+  "LandedCost": 2529,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 787,
+  "PetcokeEq": 51
+ },
+ {
+  "LandedCost": 2009,
+  "PetcokeEq": 159
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 1557,
+  "PetcokeEq": 115
+ },
+ {
+  "LandedCost": 2526,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 1933,
+  "PetcokeEq": 144
+ },
+ {
+  "LandedCost": 1500,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2550,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2633,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2007,
+  "PetcokeEq": 154
+ },
+ {
+  "LandedCost": 1871,
+  "PetcokeEq": 143
+ },
+ {
+  "LandedCost": 2017,
+  "PetcokeEq": 155
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 111
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1494,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 1493,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 2331,
+  "PetcokeEq": 174
+ },
+ {
+  "LandedCost": 1483,
+  "PetcokeEq": 112
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 113
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1474,
+  "PetcokeEq": 111
+ },
+ {
+  "LandedCost": 611,
+  "PetcokeEq": 35
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 108
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2556,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 238,
+  "PetcokeEq": 8
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 1765,
+  "PetcokeEq": 142
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2305,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2530,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 227,
+  "PetcokeEq": 7
+ },
+ {
+  "LandedCost": 581,
+  "PetcokeEq": 34
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 109
+ },
+ {
+  "LandedCost": 2050,
+  "PetcokeEq": 152
+ },
+ {
+  "LandedCost": 2543,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2236,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 1750,
+  "PetcokeEq": 135
+ },
+ {
+  "LandedCost": 1484,
+  "PetcokeEq": 118
+ },
+ {
+  "LandedCost": 2064,
+  "PetcokeEq": 155
+ },
+ {
+  "LandedCost": 2385,
+  "PetcokeEq": 185
+ },
+ {
+  "LandedCost": 1746,
+  "PetcokeEq": 132
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 1537,
+  "PetcokeEq": 114
+ },
+ {
+  "LandedCost": 1091,
+  "PetcokeEq": 79
+ },
+ {
+  "LandedCost": 2376,
+  "PetcokeEq": 184
+ },
+ {
+  "LandedCost": 2257,
+  "PetcokeEq": 168
+ },
+ {
+  "LandedCost": 2282,
+  "PetcokeEq": 177
+ },
+ {
+  "LandedCost": 2363,
+  "PetcokeEq": 183
+ },
+ {
+  "LandedCost": 1658,
+  "PetcokeEq": 121
+ },
+ {
+  "LandedCost": 675,
+  "PetcokeEq": 42
+ },
+ {
+  "LandedCost": 2346,
+  "PetcokeEq": 182
+ },
+ {
+  "LandedCost": 3549,
+  "PetcokeEq": 290
+ },
+ {
+  "LandedCost": 2092,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3549,
+  "PetcokeEq": 290
+ },
+ {
+  "LandedCost": 2305,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3185,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2451,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2657,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2423,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2792,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2599,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2792,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2599,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2792,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2599,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2792,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2599,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2792,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2599,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3181,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2653,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2407,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2945,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2945,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2945,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2945,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2945,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2752,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3181,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2653,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2407,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 3781,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2310,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 3781,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2523,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3417,
+  "PetcokeEq": 253
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2889,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2642,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2985,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2731,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2985,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2731,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2985,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2731,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3851,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2380,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 3851,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2594,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3487,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2739,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2959,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2712,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3696,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2245,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 3696,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2459,
+  "PetcokeEq": 188
+ },
+ {
+  "LandedCost": 3332,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2604,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2805,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2577,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2900,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2666,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2900,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2666,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2900,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2666,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3844,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2373,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 3844,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2587,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3480,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2732,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2952,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2705,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3048,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2794,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3048,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2794,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3048,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2794,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2042,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2255,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3147,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2401,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2620,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2374,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3893,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2422,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 3893,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2635,
+  "PetcokeEq": 190
+ },
+ {
+  "LandedCost": 3529,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2781,
+  "PetcokeEq": 195
+ },
+ {
+  "LandedCost": 3001,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 200
+ },
+ {
+  "LandedCost": 3097,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2842,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3097,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2842,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3097,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2842,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3881,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2410,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 3881,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2623,
+  "PetcokeEq": 190
+ },
+ {
+  "LandedCost": 3517,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2769,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2989,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2741,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3085,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2830,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3085,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2830,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3085,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2830,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3599,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2129,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 3599,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2342,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3234,
+  "PetcokeEq": 252
+ },
+ {
+  "LandedCost": 2488,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2707,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2460,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2803,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2549,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2803,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2549,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2803,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2549,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2042,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2255,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3147,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2401,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2620,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2374,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2042,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3512,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2255,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3147,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2401,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2620,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2374,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2716,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3800,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2329,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 3800,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2542,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3436,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2688,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2908,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2661,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3004,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3004,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3004,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3181,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2653,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2407,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2890,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2697,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2890,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2697,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2890,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2697,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2890,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2697,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2890,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2697,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 3549,
+  "PetcokeEq": 290
+ },
+ {
+  "LandedCost": 2092,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3549,
+  "PetcokeEq": 290
+ },
+ {
+  "LandedCost": 2305,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3185,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2451,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2657,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2423,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2753,
+  "PetcokeEq": 216
+ },
+ {
+  "LandedCost": 2512,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2867,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2675,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2867,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2675,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2867,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2675,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2867,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2675,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2867,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2675,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3181,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2653,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2407,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2836,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2644,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 3678,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2207,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 3678,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2421,
+  "PetcokeEq": 188
+ },
+ {
+  "LandedCost": 3313,
+  "PetcokeEq": 253
+ },
+ {
+  "LandedCost": 2566,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2786,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2539,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2882,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2628,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2882,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2628,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2882,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2628,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3851,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2380,
+  "PetcokeEq": 172
+ },
+ {
+  "LandedCost": 3851,
+  "PetcokeEq": 294
+ },
+ {
+  "LandedCost": 2594,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3487,
+  "PetcokeEq": 254
+ },
+ {
+  "LandedCost": 2739,
+  "PetcokeEq": 194
+ },
+ {
+  "LandedCost": 2959,
+  "PetcokeEq": 220
+ },
+ {
+  "LandedCost": 2712,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 3055,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2801,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3752,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2281,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 3752,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2494,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3388,
+  "PetcokeEq": 253
+ },
+ {
+  "LandedCost": 2640,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2860,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2613,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2956,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2702,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2956,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2702,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2956,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2702,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3758,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2287,
+  "PetcokeEq": 171
+ },
+ {
+  "LandedCost": 3758,
+  "PetcokeEq": 293
+ },
+ {
+  "LandedCost": 2500,
+  "PetcokeEq": 189
+ },
+ {
+  "LandedCost": 3394,
+  "PetcokeEq": 253
+ },
+ {
+  "LandedCost": 2646,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2866,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2619,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2962,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2708,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2962,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2708,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2962,
+  "PetcokeEq": 219
+ },
+ {
+  "LandedCost": 2708,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3691,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2221,
+  "PetcokeEq": 170
+ },
+ {
+  "LandedCost": 3691,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 188
+ },
+ {
+  "LandedCost": 3327,
+  "PetcokeEq": 253
+ },
+ {
+  "LandedCost": 2580,
+  "PetcokeEq": 193
+ },
+ {
+  "LandedCost": 2800,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2553,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2895,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2641,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2895,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2641,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2895,
+  "PetcokeEq": 218
+ },
+ {
+  "LandedCost": 2641,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2075,
+  "PetcokeEq": 169
+ },
+ {
+  "LandedCost": 3545,
+  "PetcokeEq": 291
+ },
+ {
+  "LandedCost": 2289,
+  "PetcokeEq": 187
+ },
+ {
+  "LandedCost": 3181,
+  "PetcokeEq": 251
+ },
+ {
+  "LandedCost": 2434,
+  "PetcokeEq": 192
+ },
+ {
+  "LandedCost": 2653,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2407,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2496,
+  "PetcokeEq": 197
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2669,
+  "PetcokeEq": 198
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2749,
+  "PetcokeEq": 199
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2462,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2781,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2484,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2880,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2743,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 3691,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2718,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2483,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2374,
+  "PetcokeEq": 196
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2735,
+  "PetcokeEq": 217
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2760,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2730,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2862,
+  "PetcokeEq": 213
+ },
+ {
+  "LandedCost": 2861,
+  "PetcokeEq": 214
+ },
+ {
+  "LandedCost": 2654,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 0,
+  "PetcokeEq": 0
+ },
+ {
+  "LandedCost": 2681,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2668,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2683,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 3691,
+  "PetcokeEq": 292
+ },
+ {
+  "LandedCost": 2679,
+  "PetcokeEq": 212
+ },
+ {
+  "LandedCost": 2676,
+  "PetcokeEq": 212
+ }]
